@@ -15,3 +15,8 @@ As stated above, the main purpose os to provide simple examples for Git training
 This is a simple web project, deployment can be on anyweb server or even local file system.
 
 ## How to contribute
+
+
+### Copyright
+
+2015 Copyright my files  - not yours
